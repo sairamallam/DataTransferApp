@@ -15,5 +15,9 @@ public class FileManagerApplication {
 		System.out.println("hiiiiii");
 	}
 
+	public void sampleGitMethod2(){
+		System.out.println("hiiiiii");
+	}
+
 
 }
