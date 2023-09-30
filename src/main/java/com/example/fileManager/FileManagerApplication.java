@@ -10,4 +10,10 @@ public class FileManagerApplication {
 		SpringApplication.run(FileManagerApplication.class, args);
 	}
 
+
+	public void sampleGitMethod(){
+		System.out.println("hiiiiii");
+	}
+
+
 }
